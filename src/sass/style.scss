@@ -1,0 +1,50 @@
+@import './hamburgers';
+
+$white: #fffefe;
+$black: #050e20;
+$secondary: #faab06;
+$accent: #d15755;
+$heading-font: 'Yrsa', serif;
+$paragraph-font: 'Martel', serif;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+}
+body {
+  background-color: $white;
+}
+.banner__heading {
+  font-family: 'EB Garamond', serif;
+}
+
+.heading {
+  font-family: $heading-font;
+}
+h2.heading {
+  text-decoration: underline;
+  text-decoration-color: $secondary;
+  text-decoration-thickness: 5px;
+}
+.paragraph {
+  font-family: $paragraph-font;
+}
+
+.f-w-400 {
+  font-weight: 400;
+}
+.f-w-500 {
+  font-weight: 500;
+}
+.f-w-600 {
+  font-weight: 600;
+}
+.f-w-700 {
+  font-weight: 700;
+}
+.f-w-800 {
+  font-weight: 800;
+}
