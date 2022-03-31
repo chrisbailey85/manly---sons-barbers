@@ -20,7 +20,7 @@ navLinks.forEach((link) => {
       navigation.classList.remove('open')
       mobileMenuBtn.ariaExpanded = false
       mobileMenuBtn.classList.remove('is-active')
-      body.classList.remove('nav--open')
+      body.classList.remove('nav__open')
     }
   })
 })
