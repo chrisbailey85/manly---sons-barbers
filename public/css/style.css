@@ -966,7 +966,7 @@ body.nav__open {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)), url("../assets/banner-bg-bw.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)), url("../assets/banner-bg-bw.webp");
   background-position: center;
   background-size: cover;
   color: #fffefe;
@@ -1100,7 +1100,7 @@ body.nav__open {
   display: none;
 }
 .location__content {
-  background-image: linear-gradient(rgba(5, 14, 32, 0.9), rgba(5, 14, 32, 0.8)), url("../assets/street-map-gf0b75312c_1280.jpg");
+  background-image: linear-gradient(rgba(5, 14, 32, 0.9), rgba(5, 14, 32, 0.8)), url("../assets/street-map-gf0b75312c_1280.webp");
   background-position: center;
   background-size: cover;
   text-align: center;
